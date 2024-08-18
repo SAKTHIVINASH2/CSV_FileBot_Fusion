@@ -18,3 +18,13 @@ The application follows these steps to provide responses to your questions:
 4. Similarity Matching: When you ask a question, the app compares it with the text chunks and identifies the most semantically similar ones.
 
 5. Response Generation: The selected chunks are passed to the language model, which generates a response based on the relevant content of the PDFs.
+
+## To install the FileBot Chat App, please follow these steps:
+
+Clone the repository to your local machine.
+
+Install the required dependencies by running the following command:
+
+```
+pip install -r requirements.txt
+```
