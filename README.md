@@ -51,3 +51,7 @@ streamlit run FILEBOT.py
 5. Ask questions in natural language about the loaded CSVs using the chat interface.
 
 ![Uploading image.png…](images/FileBot_image3.jpeg)
+
+## conclusion
+
+Leverage the power of AI to transform your local files into readily digestible content. This Python chatbot, armed with the summarizing prowess of Llama2 and the user-friendly interface of Streamlit, streamlines your workflow and unlocks valuable insights hidden within your documents. Whether you're tackling lengthy reports or condensing research papers, this AI assistant becomes your secret weapon for maximizing your productivity and extracting the essence of your local content.
