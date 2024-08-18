@@ -9,7 +9,7 @@ The FileBot Chat App is a Python application that allows you to chat with CSV do
 
 The application follows these steps to provide responses to your questions:
 
-1. PDF Loading: The app reads multiple PDF documents and extracts their text content.
+1. CSV Loading: The app reads CSV documents and extracts their text content.
 
 2. Text Chunking: The extracted text is divided into smaller chunks that can be processed effectively.
 
@@ -21,7 +21,7 @@ The application follows these steps to provide responses to your questions:
 
 ## To install the FileBot Chat App, please follow these steps:
 
-1.Clone the repository to your local machine.
+1. Clone the repository to your local machine.
 
 2. Install the required dependencies by running the following command:
 
@@ -30,24 +30,24 @@ pip install -r requirement.txt
 ```
 
 ## Usage
-To use the MultiPDF Chat App, follow these steps:
+To use the FileBot App, follow these steps:
 
 1. Ensure that you have installed the required dependencies.
 
-2.Run the main.py file using the Streamlit CLI. Execute the following command:
+2. Run the main.py file using the Streamlit CLI. Execute the following command:
 
 ```
 streamlit run app.py
 ```
 
-3.The application will launch in your default web browser, displaying the user interface.
+3. The application will launch in your default web browser, displaying the user interface.
 
-![Uploading image.png…](images/FileBot_flowchart.png)
+![Uploading image.png…](images/FileBot_image1.jpeg)
 
-4.Load multiple PDF documents into the app by clicking on Browse_files button on the left side of the screen.
+4. Load multiple PDF documents into the app by clicking on Browse_files button on the left side of the screen.
 
-![Uploading image.png…](images/FileBot_flowchart.png)
+![Uploading image.png…](images/FileBot_image2.jpeg)
 
-5.Ask questions in natural language about the loaded PDFs using the chat interface.
+5. Ask questions in natural language about the loaded PDFs using the chat interface.
 
-![Uploading image.png…](images/FileBot_flowchart.png)
+![Uploading image.png…](images/FileBot_image3.jpeg)
