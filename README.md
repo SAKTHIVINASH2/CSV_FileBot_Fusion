@@ -26,5 +26,5 @@ Clone the repository to your local machine.
 Install the required dependencies by running the following command:
 
 ```
-pip install -r requirements.txt
+pip install -r requirement.txt
 ```
