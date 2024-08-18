@@ -50,4 +50,4 @@ streamlit run FILEBOT.py
 
 5. Ask questions in natural language about the loaded CSVs using the chat interface.
 
-![Uploading image.png…](images/FileBot_image3.jpeg)
+![Uploading image.png…](images/FileBot3_image1.jpeg)
